@@ -48,11 +48,9 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
             <a href="https://komm.ku.dk/ansatte/?pure=en/persons/9895">Robin Engelhardt</a><br/>
             <a href="https://bubblestudies.dk">Center for Information and Bubble Studies</a><br/>
             <a href="https://comm.ku.dk/">Department of Communication</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Karen Blixens Plads 8<br/>
+            2300 Copenhagen S<br/>
+            Denmark<br/><br/>
 
             <div id="hide_email">
             Email: <code>rob</code><b>I</b><code>in</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
@@ -63,9 +61,9 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../assets/pics/robingit.jpg">
+            <img src="../assets/pics/robingit.jpg"
+                  title="Robin Engelhardt" alt="Robin Engelhardt"/></a>
         </div>
     </div>
 </div>
