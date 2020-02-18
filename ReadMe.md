@@ -1,6 +1,6 @@
 ## Robin Engelhardt&rsquo;s website
 
-See [robinengelhardt.info](https://robinengelhardt.info).
+you're welcome.
 
 ---
 
