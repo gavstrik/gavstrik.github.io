@@ -20,22 +20,10 @@ and with
 at the
 [Department of Communication](https://comm.ku.dk/).
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. He is enthusiastic about the value
-of interactive data visualizations for exploring high-dimensional genetic data;
-see his [R/qtlcharts package](https://kbroman.org/qtlcharts) and
-his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
-
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CVRobinEngelhardt_2020.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-7162-0990](https://orcid.org/0000-0002-7162-0990)<br/>
 [google scholar](https://scholar.google.dk/citations?user=jQufe6wAAAAJ&hl)<br/>
-[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=broman+kw)<br/>
 [github](https://github.com/gavstrik)<br/>
-[blog](https://robinengelhardt.info) <br/>
 
 
 ---
