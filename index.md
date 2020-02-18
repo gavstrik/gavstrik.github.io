@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page
 title: homepage
 tagline: Repository for Robin Engelhardt
 description: Presentation site and repository for Robin Engelhardt
