@@ -8,7 +8,8 @@ keywords: learning games, social epistemology, online experiments
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          # <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          # <li><a href="{{ BASE_PATH }}/assets/CVRobinEngelhardt_2020.pdf">cv</a></li>
+          <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">scholar</a></li>
           <li><a href="https://github.com/gavstrik">github</a></li>
           <li><a href="https://twitter.com/robinengelhardt">@robinengelhardt</a></li>
       </ul>

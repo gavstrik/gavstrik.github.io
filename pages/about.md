@@ -6,7 +6,7 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
 
 Robin Engelhardt is currently working at the [Center for Information and Bubble Studies](https://www.bubblestudies.dk) at the University of Copenhagen - Denmark; doing online experiments and research in collective phenomena, learning games, and social epistemology.
 
-Robin received a BS in [theoretical chemistry](https://www.ku.dk/) in 1993, from the
+Robin received a BS in [theoretical chemistry](https://www.ku.dk/) in 1994, from the
 University of Copenhagen, and a PhD in complex systems in 1998 from the
 [Niels Bohr Institute](http://nbi.dk); his PhD advisors were
 [Axel Hunding](https://www.researchgate.net/scientific-contributions/2006150665_Axel_Hunding) and
@@ -22,7 +22,7 @@ at the
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CVRobinEngelhardt_2020.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-7162-0990](https://orcid.org/0000-0002-7162-0990)<br/>
-[google scholar](https://scholar.google.dk/citations?user=jQufe6wAAAAJ&hl)<br/>
+[google scholar](https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl)<br/>
 [github](https://github.com/gavstrik)<br/>
 
 
