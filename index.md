@@ -10,7 +10,6 @@ keywords: learning games, social epistemology, online experiments
       <ul class="nav">
           # <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/gavstrik">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
           <li><a href="https://twitter.com/robinengelhardt">@robinengelhardt</a></li>
       </ul>
   </div>
