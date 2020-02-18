@@ -4,15 +4,15 @@ title: about
 description: Robin Engelhardt is working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark; research in social media, learning games, online experiments
 ---
 
-Robin Engelhardt is currently working at the [Center for Information and Bubble Studies](https://www.bubblestudies.dk) at the University of Copenhagen - Denmark; doing online experiments and research in collective phenomena, learning games, and social epistemology.
+Robin Engelhardt is currently working at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark; doing online experiments and research in collective phenomena, learning games, and social epistemology.
 
 Robin received a BS in [theoretical chemistry](https://www.ku.dk/) in 1994, from the
 University of Copenhagen, and a PhD in complex systems in 1998 from the
-[Niels Bohr Institute](http://nbi.dk); his PhD advisors were
+[Niels Bohr Institute](https://www.nbi.ku.dk); his PhD advisors were
 [Axel Hunding](https://www.researchgate.net/scientific-contributions/2006150665_Axel_Hunding) and
-[Kim Sneppen](https://www.nbi.ku.dk/english/staff/?pure=en/persons/41236).
+[Kim Sneppen](https://scholar.google.com/citations?hl=en&user=LIBL6nQAAAAJ).
 He was a postdoctoral fellow with
-[Kjeld Rasmussen](https://ign.ku.dk/english/employees/geography/?pure=en/persons/96818)
+[Kjeld Rasmussen](https://scholar.google.com/citations?hl=en&user=dR_89cEAAAAJ)
 at the
 [Department of Geoscience](https://ign.ku.dk/english/),
 and with
@@ -34,7 +34,7 @@ at the
     <div class="row-fluid">
         <div class="span5">
             <a href="https://komm.ku.dk/ansatte/?pure=en/persons/9895">Robin Engelhardt</a><br/>
-            <a href="https://bubblestudies.dk">Center for Information and Bubble Studies</a><br/>
+            <a href="https://bubblestudies.ku.dk/">Center for Information and Bubble Studies</a><br/>
             <a href="https://comm.ku.dk/">Department of Communication</a><br/>
             Karen Blixens Plads 8<br/>
             2300 Copenhagen S<br/>
