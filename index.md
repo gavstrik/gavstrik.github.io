@@ -52,4 +52,8 @@ keywords: learning games, social epistemology, online experiments
   </div>
 </div>
 
-This site was cloned and adapted from 
+<small>
+Site design and code was cloned and adapted from
+[Karl Bromans](https://kbroman.org)
+<a href="https://kbroman.github.io/simple_site">github site</a>.
+</small>
