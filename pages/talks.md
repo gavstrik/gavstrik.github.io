@@ -5,7 +5,75 @@ description: Karl Broman's talks
 ---
 
 ###  2019
+Berlin
+Sammen med Peter Tudvad, Bogforum, 9. november 2012, Stand: Akademisk forlag, AAU.
 
+
+Erindringer fra DDR
+I forbindelse med folkeuniversitetets forelæsningsrække ’Berlin’
+22. september 2012, kl. 10.15-16.30, AU, Campus Emdrup.
+
+Erindringer fra DDR
+I forbindelse med folkeuniversitetets forelæsningsrække ’Berlin’
+6. oktober 2012,  kl. 10.15-16.30, Ny Munkegade 118, 8000 Aarhus C, AU.
+
+The art of nudging
+- or how to change cognitive bias with choice-architecture and frames
+FL Smidth
+23. november 2011
+
+Om overtalelsens kunst  
+- og om hvorfor mennesker hopper på den hele tiden (videnskabeligt set)
+Fl Smidth
+3. november 2011
+
+Jeg, mine gener og os
+- om personlige gentests på nettet og deres betydning
+Etisk Råd
+2. november 2011
+
+Introduktion til Nudge-paradigmet
+Forskning og brug af Nudge-teknologier i Danmark,
+Dansk Nudging Netværk, ISSP
+27. januar 2011
+
+Samspil mellem fagenes vidensformer og metoder i naturvidenskaben
+FoU-konference videnskab og vidensformer
+28. oktober 2010
+
+Me, My Genes and Us
+- Personal experiences with commercial gene tests (and some sociological remarks)
+Nordic Committee on Bioethics
+14. January 2009
+
+Jeg, mine gener og os
+Dansk Selskab for Medicinsk Genetik
+2. december 2009
+
+Learning experiments with science games
+- and how to move science learning out of its self-imposed ghetto
+FUND, Trieste Expert Seminar
+7. december 2004
+
+Heroic Politics and the Framing of Public Opinion
+Conference "Dissensus – Research, Politics, Money and Journalism"
+1. June 2007, Copenhagen
+
+Ude af kontrol
+- menneskets pagt med teknologien og hvordan vi skal lære at overleve med teknologiske fremskridt, sociale dilemmaer, kloge maskiner og egne mangler.
+Krogerup højskole
+22. maj 2007
+
+Hvad bliver der tilbage når alt er anderledes?
+- at leve sammen med cyborgs, kloge maskiner og kadavre med bankende hjerte.
+Etisk Råd
+2. december 2004
+
+Om tilblivelsen af ord og syntaks som minimering af fejl i kommunikationen
+Indoeuropæisk forening
+7. marts 2002
+
+<!--
 QTL mapping in MAGIC populations with R/qtl2
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_MSU2019/msu2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_MSU2019)<br/>
@@ -1431,7 +1499,7 @@ Public Health](http://www.jhsph.edu) (_Dec 13_)
 
 Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
-<!--[![video](icons16/video-icon.png)](http://images.main.uab.edu/isoph/PresenterOne/HumanCrossoverInterference/rnhigh.ram)--> <br/>
+<![[video](icons16/video-icon.png)](http://images.main.uab.edu/isoph/PresenterOne/HumanCrossoverInterference/rnhigh.ram) <br/>
 [Section on Statistical Genetics](http://www.soph.uab.edu/statgenetics/Default.htm), University of Alabama,
 Birmingham (_Oct 9_)
 
@@ -1616,4 +1684,4 @@ Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 8_)
 Analysis of a T cell frequency assay
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Pullman1996/pullman1996.pdf)
 <br/>
-WNAR, Pullman, Washington (_June_)
+WNAR, Pullman, Washington (_June_) -->

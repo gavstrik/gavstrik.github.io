@@ -15,7 +15,7 @@ description: Karl Broman's teaching
     </div>
 </div>
 
-
+<!--
 ### <a name="current"></a>Current courses
 
 #### [Advanced data analysis (BMI 826, Spring 2020)](https://kbroman.org/AdvData)
@@ -600,4 +600,4 @@ Biocomputing I: Perl for bioinformatics (Pineda)<br/>
 
 #### [Statistical genetics](https://www.biostat.wisc.edu/~kbroman/teaching/statgen_old/index.html) (140.668)
 
-#### [Advanced statistical computing](https://www.biostat.wisc.edu/~kbroman/teaching/statcomp/index.html) (140.778)
+#### [Advanced statistical computing](https://www.biostat.wisc.edu/~kbroman/teaching/statcomp/index.html) (140.778) -->

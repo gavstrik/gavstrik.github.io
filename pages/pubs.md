@@ -1333,9 +1333,13 @@ Hvorfor ligner vi ikke søpølser?, 13. oktober 1995, Weekendavisen, Sektion 2, 
 ### <a name="games"></a>games
 
 Boll-Johansen B, **Engelhardt R.**, Storm S. (2019) Videnskanylen
+[![Online complements](icons16/html-icon.png)](https://www.videnskanylen.dk/)
 
-**Engelhardt R.**, Boll-Johansen B. (2015), Podcasts for Poder [html]
+**Engelhardt R.**, Boll-Johansen B. (2015), Podcasts for Poder
+[![Online complements](icons16/html-icon.png)](http://podcastsforpoder.kloerkonge.dk/)
 
-**Engelhardt R.**, Vilhelmsen L., Møller M., et.al. (2005): Drabssag Melved [html]
+**Engelhardt R.**, Vilhelmsen L., Møller M., et.al. (2005): Drabssag Melved
+[![Online complements](icons16/html-icon.png)](https://drabssag.dk/)
 
-**Engelhardt R.**, Vilhelmsen L., Skovgaard P. (2004): Hazardcards [html]
+**Engelhardt R.**, Vilhelmsen L., Skovgaard P. (2004): Hazardcards
+[![Online complements](icons16/html-icon.png)](https://boardgamegeek.com/boardgame/19882/hazard-cards)

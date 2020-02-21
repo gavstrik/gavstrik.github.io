@@ -1,6 +1,6 @@
 ## Robin Engelhardt&rsquo;s website
 
-you're welcome..
+Welcome to the repository of my website. It contains the code and files for the site and is (or should be) under constant construction. Originally I just cloned Karl Bromans code and adapted it to my needs.
 
 ---
 
