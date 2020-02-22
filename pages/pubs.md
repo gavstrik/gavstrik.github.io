@@ -1330,13 +1330,18 @@ Verdens undergang præmieret, 3. november 1995, Weekendavisen, Sektion 2, Side 1
 
 Hvorfor ligner vi ikke søpølser?, 13. oktober 1995, Weekendavisen, Sektion 2, Side 8, ROBIN ENGELHARDT, 1576 ord, Id: AZ607354
 
-### <a name="games"></a>games
+### <a name="games"></a>learning games and materials
 
 Boll-Johansen B, **Engelhardt R.**, Storm S. (2019) Videnskanylen
 [![Online complements](icons16/html-icon.png)](https://www.videnskanylen.dk/)
+[![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/channel/UCq6YgNKARBapgm5CljM692Q/videos)
+[![Online complements](icons16/materialeplatformen-icon.png)](https://materialeplatform.emu.dk/materialer/bogkort/122093904)
+
 
 **Engelhardt R.**, Boll-Johansen B. (2015), Podcasts for Poder
 [![Online complements](icons16/html-icon.png)](http://podcastsforpoder.kloerkonge.dk/)
+[![Online complements](icons16/materialeplatformen-icon.png)](https://materialeplatform.emu.dk/materialer/bogkort/67976529)
+
 
 **Engelhardt R.**, Vilhelmsen L., Møller M., et.al. (2005): Drabssag Melved
 [![Online complements](icons16/html-icon.png)](https://drabssag.dk/)

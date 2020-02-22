@@ -19,21 +19,20 @@ keywords: learning games, social epistemology, online experiments
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="https://github.com/gavstrik/WoT">
+        <img src="assets/publpics/wamot.png" alt="Wisdom of Threads" title="Wisdom of Threads"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/mppdiag_fig4.html">
-        <img src="assets/publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+    <a href="https://www.videnskanylen.dk/">
+        <img src="assets/publpics/videnskanylen.png" alt="Videnskanylen" title="Videnskanylen"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
+        <img src="assets/publpics/ERGO.jpg" alt="Jensen and Engelhardt (2007)" title="Jensen and Engelhardt (2007)"/>
     </a>
   </td>
   <td class="right">
