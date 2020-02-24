@@ -2,7 +2,7 @@
 layout: frontpage
 title: Robin Engelhardt
 description: Robin Engelhardt is currently working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark; research in statistical genetics
-keywords: learning games, social epistemology, online experiment
+keywords: learning games, social epistemology, online experiments
 ---
 
 <div class="navbar">
@@ -31,8 +31,8 @@ keywords: learning games, social epistemology, online experiment
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/ERGO.jpg" alt="Jensen and Engelhardt (2007)" title="Jensen and Engelhardt (2007)"/>
+    <a href="https://gavstrik.github.io/ergo">
+        <img src="assets/publpics/ERGO.jpg" alt="Engelhardt and Jensen (2007)" title="Engelhardt and Jensen (2007)"/>
     </a>
   </td>
   <td class="right">
