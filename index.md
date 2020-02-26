@@ -37,7 +37,7 @@ keywords: learning games, social epistemology, online experiments
   </td>
   <td class="right">
     <a href="https://boardgamegeek.com/boardgame/19882/hazard-cards">
-        <img src="assets/publpics/hazard_deck.jpg" alt="Hazardcards" title="Hazardcards"/>
+        <img src="assets/publpics/color_collage.jpg" alt="Hazardcards" title="Hazardcards"/>
     </a>
   </td>
 </tr>
