@@ -36,8 +36,8 @@ keywords: learning games, social epistemology, online experiments
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/rqtl2_fig1.html">
-        <img src="assets/publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
+    <a href="https://boardgamegeek.com/boardgame/19882/hazard-cards">
+        <img src="assets/publpics/hazard_deck.jpg" alt="Hazardcards" title="Hazardcards"/>
     </a>
   </td>
 </tr>
