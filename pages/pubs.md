@@ -31,7 +31,7 @@ description: Robin Engelhardt's publications
 -->
 
 John St. Waft med forord af **Dr. Engelhardt** (2012), Endnu et beskedent forslag - til at forbedre de asylsøgende flygtninges ulykkelige situation og gøre deres ti  lstedeværelse i Danmark til en fordel for dem selv og for det danske samfund, 24 pages, Autre, ISBN 978-87-994150-3-8.
-[![pdf](icons16/pdf-icon.png)](assets/pdfs/Endnu-et-beskedent-forslag.pdf)
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Endnu-et-beskedent-forslag.pdf)
 
 **Engelhardt R.**, Lund C., Jeg tager bomben med når jeg går - Udvalgte trusselsbreve m.m. fra Rigspolitiets Arkiv, 128 pages, People's Press, 2009, ISBN 9788770557603.
 
