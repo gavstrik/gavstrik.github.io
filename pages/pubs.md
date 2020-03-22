@@ -30,27 +30,31 @@ description: Robin Engelhardt's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9)
 -->
 
-John St. Waft med forord af **Dr. Engelhardt**, Endnu et beskedent forslag - til at forbedre de asylsøgende flygtninges ulykkelige situation og gøre deres tilstedeværelse i Danmark til en fordel for dem selv og for det danske samfund, 24 pages, Autre, 2012, ISBN 978-87-994150-3-8. [pdf]
+John St. Waft med forord af **Dr. Engelhardt** (2012), Endnu et beskedent forslag - til at forbedre de asylsøgende flygtninges ulykkelige situation og gøre deres ti  lstedeværelse i Danmark til en fordel for dem selv og for det danske samfund, 24 pages, Autre, ISBN 978-87-994150-3-8.
+[![pdf](icons16/pdf-icon.png)](assets/pdfs/Endnu-et-beskedent-forslag.pdf)
 
 **Engelhardt R.**, Lund C., Jeg tager bomben med når jeg går - Udvalgte trusselsbreve m.m. fra Rigspolitiets Arkiv, 128 pages, People's Press, 2009, ISBN 9788770557603.
 
 **Engelhardt R.**, Lund C., Jeg er bevæbnet og har tømmermænd - Udvalgte trusselsbreve fra Rigspolitiets arkiv, 128 pages, People's Press 2008. ISBN: 9788770554909.
 
-**Engelhardt R.**, Siggaard Jensen H., ERGO - Naturvidenskabens Filosofiske Historie (Philosophical History of the Natural Sciences), Lindhardt & Ringhof. 2007, ISBN-13 978-87-595-2866. [html]
+**Engelhardt R.**, Siggaard Jensen H., ERGO - Naturvidenskabens Filosofiske Historie (Philosophical History of the Natural Sciences), Lindhardt & Ringhof. 2007, ISBN-13 978-87-595-2866.
+[![html](icons16/html-icon.png)](https://gavstrik.github.io/ergo/)
 
 **Engelhardt R.**, Mehlsen C., Stjernfelt F. (eds.), Tankestreger - Tværvidenskabelige nybrud, DPUs Forlag, 2007, ISBN 978 87 7684 183 6.
 
 Richter L., **Engelhardt R.**, Life of Science - White Book on Educational Initiatives in Natural Science and Technology, Learning Lab Denmark, 2002.[pdf]
 
-**Engelhardt R.**, Hejlskov I., Mørk, K., (2000) Kloner og Stjernekrig (Clones and Star Wars - A textbook about classical science-fiction novels), Lindhardt & Ringhof, ISBN13: 9788759515068.[![Online complements](icons16/html-icon.png)](https://klonerogstjernekrig.blogspot.com/)
-
+**Engelhardt R.**, Hejlskov I., Mørk, K., (2000) Kloner og Stjernekrig (Clones and Star Wars - A textbook about classical science-fiction novels), Lindhardt & Ringhof, ISBN13: 9788759515068.
+[![html](icons16/html-icon.png)](https://klonerogstjernekrig.blogspot.com/)
 
 
 ### <a name="chapters"></a>proceedings and book chapters
 
 **Engelhardt R.**, Wiewiura JS., Hendircks VF. (2019), Kollektiv klogskab og polarisering, in ’LIKE: Shitstorme, fake news, fear of missing out. What’s not to like?’, Mehlsen, C. & Hendricks, V. F. (eds.). Center for Information og Boblestudier (CIBS), p. 176-191. [pdf]
 
-**Engelhardt, R**. Dynamical Aspects of the Origin and Evolution of Language, in ‘Language and prehistory of the Indo-European peoples: A cross-disciplinary perspective (Copenhagen Studies in Indo-European 7)’, Adam Hyllested, Benedicte Nielsen Whitehead, Thomas Olander & Birgit Anette Olsen (eds.), Copenhagen: Museum Tusculanum Press, 2017. [pdf]
+**Engelhardt, R**. (2017) Dynamical Aspects of the Origin and Evolution of Language, in ‘Language and prehistory of the Indo-European peoples: A cross-disciplinary perspective (Copenhagen Studies in Indo-European 7)’, Adam Hyllested, Benedicte Nielsen Whitehead, Thomas Olander & Birgit Anette Olsen (eds.), Copenhagen: Museum Tusculanum Press, ISBN 978 87 635 4531 0.
+[![pdf](icons16/pdf-icon.png)](https://gavstrik.github.io/ergo/assets/pdfs/language-and-prehistory-engelhardt.pdf)
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Language-Prehistory-Indo-European-Peoples-Cross-Disciplinary/dp/8763545314)
 
 **Engelhardt, R**. From Fragmentation to Congruence - Designing an Interdisciplinary Project Course, Improving University Science Teaching and Learning - Pedagogical Projects 2015, Volume 8, Number 1-2, 2016
 

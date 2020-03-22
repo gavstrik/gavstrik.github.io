@@ -2,6 +2,7 @@
 
 Welcome to the repository of my website. It contains the code and files for the site and is (or should be) under constant construction. Originally I just cloned Karl Bromans code and adapted it to my needs.
 
+Test locally: use the command "jekyll serve"
 ---
 
 My parts of this web site are licensed under
