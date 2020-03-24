@@ -38,42 +38,61 @@ John St. Waft med forord af **Dr. Engelhardt** (2012), Endnu et beskedent forsla
 **Engelhardt R.**, Lund C., Jeg er bevæbnet og har tømmermænd - Udvalgte trusselsbreve fra Rigspolitiets arkiv, 128 pages, People's Press 2008. ISBN: 9788770554909.
 
 **Engelhardt R.**, Siggaard Jensen H., ERGO - Naturvidenskabens Filosofiske Historie (Philosophical History of the Natural Sciences), Lindhardt & Ringhof. 2007, ISBN-13 978-87-595-2866.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/ERGO.pdf)
 [![html](icons16/html-icon.png)](https://gavstrik.github.io/ergo/)
 
-**Engelhardt R.**, Mehlsen C., Stjernfelt F. (eds.), Tankestreger - Tværvidenskabelige nybrud, DPUs Forlag, 2007, ISBN 978 87 7684 183 6.
+**Engelhardt R.**, Mehlsen C., Stjernfelt F. (eds.), Tankestreger - Tværvidenskabelige nybrud, DPUs Forlag, 2007, ISBN 9788776841836.
 
-Richter L., **Engelhardt R.**, Life of Science - White Book on Educational Initiatives in Natural Science and Technology, Learning Lab Denmark, 2002.[pdf]
+Richter L., **Engelhardt R.**, Life of Science - White Book on Educational Initiatives in Natural Science and Technology, Learning Lab Denmark, 2002.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/lifeofscience-final.pdf)
 
 **Engelhardt R.**, Hejlskov I., Mørk, K., (2000) Kloner og Stjernekrig (Clones and Star Wars - A textbook about classical science-fiction novels), Lindhardt & Ringhof, ISBN13: 9788759515068.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Kloner_og_stjernekrig.pdf)
 [![html](icons16/html-icon.png)](https://klonerogstjernekrig.blogspot.com/)
 
 
 ### <a name="chapters"></a>proceedings and book chapters
 
-**Engelhardt R.**, Wiewiura JS., Hendircks VF. (2019), Kollektiv klogskab og polarisering, in ’LIKE: Shitstorme, fake news, fear of missing out. What’s not to like?’, Mehlsen, C. & Hendricks, V. F. (eds.). Center for Information og Boblestudier (CIBS), p. 176-191. [pdf]
+**Engelhardt R.**, Wiewiura JS., Hendircks VF. (2019), Kollektiv klogskab og polarisering, in ’LIKE: Shitstorme, fake news, fear of missing out. What’s not to like?’, Mehlsen, C. & Hendricks, V. F. (eds.). Center for Information og Boblestudier (CIBS), p. 176-191.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/DUDE-_-LIKE-Kap-5.2.pdf)
+[![hand](icons16/hand-icon.png)](https://digitaluddannelse.org/)
 
 **Engelhardt, R**. (2017) Dynamical Aspects of the Origin and Evolution of Language, in ‘Language and prehistory of the Indo-European peoples: A cross-disciplinary perspective (Copenhagen Studies in Indo-European 7)’, Adam Hyllested, Benedicte Nielsen Whitehead, Thomas Olander & Birgit Anette Olsen (eds.), Copenhagen: Museum Tusculanum Press, ISBN 978 87 635 4531 0.
 [![pdf](icons16/pdf-icon.png)](https://gavstrik.github.io/ergo/assets/pdfs/language-and-prehistory-engelhardt.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Language-Prehistory-Indo-European-Peoples-Cross-Disciplinary/dp/8763545314)
 
 **Engelhardt, R**. From Fragmentation to Congruence - Designing an Interdisciplinary Project Course, Improving University Science Teaching and Learning - Pedagogical Projects 2015, Volume 8, Number 1-2, 2016
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Fragmentation_to_Congruence_2015.pdf)
 
-**Engelhardt R.**, 'Intro: Erindringer fra Museumsøen', in Berlin, a part of the series Vide verden, Aarhus Universitetsforlag, 260 pages, 2012, ISBN 9788779346895.[pdf]
+**Engelhardt R.**, 'Intro: Erindringer fra Museumsøen', in Berlin, a part of the series Vide verden, Aarhus Universitetsforlag, 260 pages, 2012, ISBN 9788779346895.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Erindringer fra museumsøen.pdf)
+[![hand](icons16/hand-icon.png)](https://unipress.dk/udgivelser/b/berlin/)
 
 **Engelhardt R.**, "Me, My Genes and Us - Personal Experiences with Gene Tests and some
-Sociological Observations", in Consumer Medicin, edited by Aaro Tupasela, Nordic Council of Ministers, ISBN 978-92-893-2038-2, Copenhagen 2010. [abstract][html][pdf]
+Sociological Observations", in Consumer Medicin, edited by Aaro Tupasela, Nordic Council of Ministers, ISBN 978-92-893-2038-2, Copenhagen 2010.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/manus_GeneticSelfTesting.pdf)
+[![hand](icons16/hand-icon.png)](https://books.google.dk/books?id=Vv4YSp2QbLYC&pg=PA53&dq=Me,+My+Genes+and+Us+-+Personal+Experiences+With+Gene+Tests,+and+Some+Sociological+Observations&hl=en&sa=X&ved=0ahUKEwjFhJfc763oAhVJ_SoKHeGnA_sQ6AEIKDAA#v=onepage&q=Me%2C%20My%20Genes%20and%20Us%20-%20Personal%20Experiences%20With%20Gene%20Tests%2C%20and%20Some%20Sociological%20Observations&f=false)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.6027/9789289331661-5-en)
 
-Lisser R. Ejersbo, **Robin Engelhardt**, Lisbeth Frølunde, Thorkild Hanghøj, Rikke Magnussen, and Morten Misfeldt. Balancing Product Design and Theoretical Insights, The Handbook of Design Research in Mathematics, Science and Technology Education. Erlbaum, Mahwah, NJ. 2007. [pdf]
+Lisser R. Ejersbo, **Robin Engelhardt**, Lisbeth Frølunde, Thorkild Hanghøj, Rikke Magnussen, and Morten Misfeldt. Balancing Product Design and Theoretical Insights, The Handbook of Design Research in Mathematics, Science and Technology Education. Erlbaum, Mahwah, NJ. 2007.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/ejersbo2008balancing.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.4324/9781315759593 )
 
-**Engelhardt R.**: A School Day is a School Day, in Richter L., Engelhardt R. (ed.): Life of Science, Learning Lab Denmark, 2002 [pdf]
+**Engelhardt R.**: A School Day is a School Day, in Richter L., Engelhardt R. (ed.): Life of Science, Learning Lab Denmark, 2002
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/ASchoolDayisaSchoolDay.pdf)
 
-**Engelhardt R.**: Finnish Lessons, in Richter L., Engelhardt R. (ed.): Life of Science. Learning Lab Denmark, 2002 [pdf]
+**Engelhardt R.**: Finnish Lessons, in Richter L., Engelhardt R. (ed.): Life of Science. Learning Lab Denmark, 2002
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/FinnishLessons.pdf)
 
-**Engelhardt R.**: A School for the Future, in Richter L., Engelhardt R. (ed.): Life of Science. Learning Lab Denmark, 2002 [pdf]
+**Engelhardt R.**: A School for the Future, in Richter L., Engelhardt R. (ed.): Life of Science. Learning Lab Denmark, 2002
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/ASchoolfortheFuture.pdf)
 
 **Engelhardt R.** (2001). High Cooperativity as Origin of Pattern Complexity, in: Dynamical Modeling in Biotechnology, ed. Bagnoli F. and Ruffo S., ISBN 981-02-3604-2, World Scientific.
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1142/9789812813053_0013)
+
 
 **Engelhardt R.** (2000). Vive la difference, in: Hvordan Mand, ed. Adam Holm, Tiderne Skifter. [html]
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Vive_la_difference.pdf)
 
 ### <a name="articles"></a>research articles
 
@@ -81,28 +100,39 @@ Lisser R. Ejersbo, **Robin Engelhardt**, Lisbeth Frølunde, Thorkild Hanghøj, R
 
 #### published
 
-Hunding A., **Engelhardt R.** (2000): Self-Organization and Evolution in a Simulated Cross Catalyzed Network, Origs. Life Evol. Biosphere 30 (5): pp 439-457. [pdf] [abstract]
+Hunding A., **Engelhardt R.** (2000): Self-Organization and Evolution in a Simulated Cross Catalyzed Network, Origs. Life Evol. Biosphere 30 (5): pp 439-457.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/hunding2000self.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1023/A:1006601720777)
 
-Newman M.E., **Engelhardt R.** (1998). Effects of selective neutrality on the evolution of molecular species, Proceedings of the Royal Society London B, 265 (1403), pp. 1333-1338. [pdf] [ps] [ps.gz]
+Newman M.E., **Engelhardt R.** (1998). Effects of selective neutrality on the evolution of molecular species, Proceedings of the Royal Society London B, 265 (1403), pp. 1333-1338.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/newman1998effects.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1098/rspb.1998.0438)
 
-Métens S., Dewel G., Borckmans P., **Engelhardt R.** (1997): Pattern Selection in Bistable Systems, Europhysics Letters, 37 (2), pp. 109-114. [pdf] [html]
+Métens S., Dewel G., Borckmans P., **Engelhardt R.** (1997): Pattern Selection in Bistable Systems, Europhysics Letters, 37 (2), pp. 109-114.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/metens1997pattern.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1209/epl/i1997-00119-4)
 
-Hunding A., **Engelhardt R.** (1995). Early Biological Morphogenesis and Nonlinear Dynamics, Journal of Theoretical Biology, 173, pp 401-413. [abstract]
-
+Hunding A., **Engelhardt R.** (1995). Early Biological Morphogenesis and Nonlinear Dynamics, Journal of Theoretical Biology, 173, pp 401-413.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/hunding1995early.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1006/jtbi.1995.0072)
 
 ### <a name="techreports"></a>technical reports and memos
 
-**Engelhardt R.**, "On pedagogical possibilities for the future application of information technology in education", memorandum to the Danish Ministry of Education, Learning Lab Denmark, 16. April 2004. [pdf english] [pdf danish]
+**Engelhardt R.**, "On pedagogical possibilities for the future application of information technology in education", memorandum to the Danish Ministry of Education, Learning Lab Denmark, 16. April 2004.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/memo_ministry_of_education.pdf)
 
-**Robin Engelhardt**, Morten Misfeldt, Ole Graa Jacobsen, Hans-Jørgen Kristensen, Vibeke Fahlén, and Rasmus Dahl, Praktikken i diplomingeniøruddannelsen [In-service training for BSc (engineering)-students], Pedagogical Network for Engineering Education in Denmark, Periodical(2), Niels Borhs Alle 1, Odense , 2004. [pdf]
+**Robin Engelhardt**, Morten Misfeldt, Ole Graa Jacobsen, Hans-Jørgen Kristensen, Vibeke Fahlén, and Rasmus Dahl, Praktikken i diplomingeniøruddannelsen [In-service training for BSc (engineering)-students], Pedagogical Network for Engineering Education in Denmark, Periodical(2), Niels Borhs Alle 1, Odense , 2004.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/praktikbogipn2.pdf)
 
-**Robin Engelhardt**, Ove Poulsen, et. al., Physics and chemistry: science for everyone, Report on Danish science education policy, The Danish Ministry of Science, Technology and Innovation, 2002. [pdf] [html]
+**Robin Engelhardt**, Ove Poulsen, et. al., Physics and chemistry: science for everyone, Report on Danish science education policy, The Danish Ministry of Science, Technology and Innovation, 2002.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/fykom-18-april-2002-final.pdf)
 
 ### <a name="thesis"></a>theses
 
-**Engelhardt R.** (1998). Emergent Percolating Nets in Evolution - self-organizing networks of molecules and species and their relation to critical systems, PhD-thesis, ISBN 87-7834-304-6, HCØ Tryk, Copenhagen. [pdf] [ps]
+**Engelhardt R.** (1998). Emergent Percolating Nets in Evolution - self-organizing networks of molecules and species and their relation to critical systems, PhD-thesis, ISBN 87-7834-304-6, HCØ Tryk, Copenhagen.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/EmergentPercolatingNetsinEvolution.pdf)
 
-**Engelhardt R.** (1994). Modeling Pattern Formation in Reaction-Diffusion Systems - An investigation of Turing's Theory of Morphogenesis with special reference to highly non-linear and bistable systems, Masters Thesis, Copenhagen University, June 1994. [pdf] [html] [tgz]
+**Engelhardt R.** (1994). Modeling Pattern Formation in Reaction-Diffusion Systems - An investigation of Turing's Theory of Morphogenesis with special reference to highly non-linear and bistable systems, Masters Thesis, Copenhagen University, June 1994. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/speciale_combined.pdf)
 
 
 ### <a name="journalism"></a>journalism and science writing
