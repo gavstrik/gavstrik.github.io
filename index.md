@@ -19,7 +19,7 @@ keywords: learning games, social epistemology, online experiments
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://github.com/gavstrik/WoT">
+    <a href="https://www.youtube.com/watch?v=_QBlowTgcrY">
         <img src="assets/publpics/wamot.png" alt="Wisdom of Threads" title="Wisdom of Threads"/>
     </a>
   </td>
