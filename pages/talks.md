@@ -4,10 +4,20 @@ title: talks
 description: Karl Broman's talks
 ---
 
-###  2019
-Berlin
-Sammen med Peter Tudvad, Bogforum, 9. november 2012, Stand: Akademisk forlag, AAU.
+### 2020
+The Wisdom and Manipulability of Threads
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/wot_talk.pdf)
+[![video](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=_QBlowTgcrY) <br/>
+[IC2S2 6th. International Conference on Computational Social Science 2020​](https://ic2s2.pathable.co/),
+Virtual Conference (_July 18, 2020_)
 
+The Wisdom and Manipulability of Threads
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/wot_talk.pdf)
+[![video](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=_QBlowTgcrY) <br/>
+[ACM Collective Intelligence 2020​](https://ci2020.weebly.com/), Virtual Conference (_June 18, 2020_)
+
+###  - 2019
+Berlin, sammen med Peter Tudvad, Bogforum, 9. november 2012, Stand: Akademisk forlag, AAU.
 
 Erindringer fra DDR
 I forbindelse med folkeuniversitetets forelæsningsrække ’Berlin’
