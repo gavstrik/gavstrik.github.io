@@ -57,6 +57,10 @@ Richter L., **Engelhardt R.**, Life of Science - White Book on Educational Initi
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/DUDE-_-LIKE-Kap-5.2.pdf)
 [![hand](icons16/hand-icon.png)](https://digitaluddannelse.org/)
 
+**Engelhardt R.**, Christiansen FV., Johansen MW. (2018), Institutionaliseringen af Fagets Videnskabsteori, in ’Fagets Videnskabsteori', Børsten, T., Pedersen DB. & Andersen, H. (eds.). Samfundslitteratur, p. 35-49.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Institutionaliseringen af FVT_final.pdf)
+[![hand](icons16/hand-icon.png)](https://samfundslitteratur.dk/bog/fagets-videnskabsteori)
+
 **Engelhardt, R**. (2017) Dynamical Aspects of the Origin and Evolution of Language, in ‘Language and prehistory of the Indo-European peoples: A cross-disciplinary perspective (Copenhagen Studies in Indo-European 7)’, Adam Hyllested, Benedicte Nielsen Whitehead, Thomas Olander & Birgit Anette Olsen (eds.), Copenhagen: Museum Tusculanum Press, ISBN 978 87 635 4531 0.
 [![pdf](icons16/pdf-icon.png)](https://gavstrik.github.io/ergo/assets/pdfs/language-and-prehistory-engelhardt.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Language-Prehistory-Indo-European-Peoples-Cross-Disciplinary/dp/8763545314)

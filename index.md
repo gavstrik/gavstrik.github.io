@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Robin Engelhardt
-description: Robin Engelhardt is currently working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark; research in statistical genetics
+description: Robin Engelhardt is currently working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark.
 keywords: learning games, social epistemology, online experiments
 ---
 
