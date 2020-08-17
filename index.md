@@ -19,8 +19,8 @@ keywords: learning games, social epistemology, online experiments
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://www.youtube.com/watch?v=_QBlowTgcrY">
-        <img src="assets/publpics/wamot.png" alt="Wisdom of Threads" title="Wisdom of Threads"/>
+    <a href="https://arxiv.org/abs/2008.05203">
+        <img src="assets/publpics/wamot.png" alt="Wisdom of Threads" title="The Wisdom and Persuadability of Threads"/>
     </a>
   </td>
   <td class="right">

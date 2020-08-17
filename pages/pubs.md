@@ -102,6 +102,13 @@ Lisser R. Ejersbo, **Robin Engelhardt**, Lisbeth Frølunde, Thorkild Hanghøj, R
 
 #### in preparation
 
+Bolander T., **Engelhardt R.**, Nicolet T. (2020): The Curse of Shared Knowledge: Recursive Belief Reasoning in a Coordination Game
+with Imperfect Information, arXiv.org.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/TheCurseOfSharedKnowledge.pdf)
+
+**Engelhardt R.**, Hendricks VF., Stærk-Østergaard J. (2020): The Wisdom and Persuadability of Threads, arXiv.org.
+[![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/2008.05203.pdf)
+
 #### published
 
 Hunding A., **Engelhardt R.** (2000): Self-Organization and Evolution in a Simulated Cross Catalyzed Network, Origs. Life Evol. Biosphere 30 (5): pp 439-457.
