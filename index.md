@@ -2,7 +2,7 @@
 layout: frontpage
 title: Robin Engelhardt
 description: Robin Engelhardt is currently working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark.
-keywords: learning games, social epistemology, online experiments
+keywords: learning games, social epistemology, online experiments, science writing
 ---
 
 <div class="navbar">
@@ -20,12 +20,12 @@ keywords: learning games, social epistemology, online experiments
 <tr>
   <td class="left">
     <a href="https://arxiv.org/abs/2008.05203">
-        <img src="assets/publpics/wamot.png" alt="Wisdom of Threads" title="The Wisdom and Persuadability of Threads"/>
+        <img src="assets/publpics/wamot.png" width="300" alt="Wisdom of Threads" title="The Wisdom and Persuadability of Threads"/>
     </a>
   </td>
   <td class="right">
     <a href="https://arxiv.org/abs/2008.08849">
-        <img src="assets/publpics/canteen_dilemma.png" alt="Canteen Dilemma" title="Canteen Dilemma"/>
+        <img src="assets/publpics/canteen_dilemma.png" width="300" alt="Canteen Dilemma" title="Canteen Dilemma"/>
     </a>
   </td>
 </tr>

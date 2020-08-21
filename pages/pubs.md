@@ -34,8 +34,10 @@ John St. Waft med forord af **Dr. Engelhardt** (2012), Endnu et beskedent forsla
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Endnu-et-beskedent-forslag.pdf)
 
 **Engelhardt R.**, Lund C., Jeg tager bomben med når jeg går - Udvalgte trusselsbreve m.m. fra Rigspolitiets Arkiv, 128 pages, People's Press, 2009, ISBN 9788770557603.
+[![html](icons16/hand-icon.png)](https://www.saxo.com/dk/jeg-tager-bomben-med-naar-jeg-gaar_robin-engelhardt_haeftet_9788770557603)
 
 **Engelhardt R.**, Lund C., Jeg er bevæbnet og har tømmermænd - Udvalgte trusselsbreve fra Rigspolitiets arkiv, 128 pages, People's Press 2008. ISBN: 9788770554909.
+[![html](icons16/ebook-icon.png)](https://www.saxo.com/dk/jeg-er-bevaebnet-og-har-toemmermaend_robin-engelhardt-christian-lund_epub_9788771088083?gclid=EAIaIQobChMIzuCd05Ks6wIVmeR3Ch1PSg-DEAAYASAAEgJOXvD_BwE)
 
 **Engelhardt R.**, Siggaard Jensen H., ERGO - Naturvidenskabens Filosofiske Historie (Philosophical History of the Natural Sciences), Lindhardt & Ringhof. 2007, ISBN-13 978-87-595-2866.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/ERGO.pdf)
@@ -49,6 +51,7 @@ Richter L., **Engelhardt R.**, Life of Science - White Book on Educational Initi
 **Engelhardt R.**, Hejlskov I., Mørk, K., (2000) Kloner og Stjernekrig (Clones and Star Wars - A textbook about classical science-fiction novels), Lindhardt & Ringhof, ISBN13: 9788759515068.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Kloner_og_stjernekrig.pdf)
 [![html](icons16/html-icon.png)](https://klonerogstjernekrig.blogspot.com/)
+[![html](icons16/issuu-icon.png)](https://issuu.com/robin/docs/klonerogstjernekrig)
 
 
 ### <a name="chapters"></a>proceedings and book chapters
@@ -104,9 +107,11 @@ Lisser R. Ejersbo, **Robin Engelhardt**, Lisbeth Frølunde, Thorkild Hanghøj, R
 
 Bolander T., **Engelhardt R.**, Nicolet T. (2020): The Curse of Shared Knowledge: Recursive Belief Reasoning in a Coordination Game with Imperfect Information, arXiv.org.
 [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/2008.08849.pdf)
+[![html](icons16/arxiv-icon.png)](https://arxiv.org/abs/2008.08849)
 
 **Engelhardt R.**, Hendricks VF., Stærk-Østergaard J. (2020): The Wisdom and Persuadability of Threads, arXiv.org.
 [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/2008.05203.pdf)
+[![html](icons16/arxiv-icon.png)](https://arxiv.org/abs/2008.05203)
 
 #### published
 
@@ -117,6 +122,7 @@ Hunding A., **Engelhardt R.** (2000): Self-Organization and Evolution in a Simul
 Newman M.E., **Engelhardt R.** (1998). Effects of selective neutrality on the evolution of molecular species, Proceedings of the Royal Society London B, 265 (1403), pp. 1333-1338.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/newman1998effects.pdf)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1098/rspb.1998.0438)
+[![html](icons16/arxiv-icon.png)](https://arxiv.org/abs/adap-org/9712005)
 
 Métens S., Dewel G., Borckmans P., **Engelhardt R.** (1997): Pattern Selection in Bistable Systems, Europhysics Letters, 37 (2), pp. 109-114.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/metens1997pattern.pdf)
@@ -731,6 +737,10 @@ Ny viden om knogletab i rummet, 30. januar 2009, Ingeniøren, Sektion 1, Side 16
 Realitetstjek af Grænser for vækst, 16. januar 2009, Ingeniøren, Sektion 1, Side 12/13, Robin Engelhardt, 722 ord, Id: e15d6abe
 
 ##### 2008
+
+Katastroferne kommer, Ingeniøren, 20. december 2008,
+[![html](icons16/html-icon.png)](https://ing.dk/artikel/katastroferne-kommer-94436)
+[![html](icons16/issuu-icon.png)](https://issuu.com/robin/docs/katastrofernekommer)
 
 Gödel, Turing, Wolpert, 21. november 2008, Ingeniøren, Sektion 1, Side 20/21, Robin Engelhardt, 1434 ord, Id: e14c229c
 
