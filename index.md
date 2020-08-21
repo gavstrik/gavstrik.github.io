@@ -24,8 +24,8 @@ keywords: learning games, social epistemology, online experiments
     </a>
   </td>
   <td class="right">
-    <a href="https://www.videnskanylen.dk/">
-        <img src="assets/publpics/videnskanylen.png" alt="Videnskanylen" title="Videnskanylen"/>
+    <a href="https://arxiv.org/abs/2008.08849">
+        <img src="assets/publpics/canteen_dilemma.png" alt="Canteen Dilemma" title="Canteen Dilemma"/>
     </a>
   </td>
 </tr>
@@ -36,8 +36,8 @@ keywords: learning games, social epistemology, online experiments
     </a>
   </td>
   <td class="right">
-    <a href="https://boardgamegeek.com/boardgame/19882/hazard-cards">
-        <img src="assets/publpics/color_collage.jpg" alt="Hazardcards" title="Hazardcards"/>
+    <a href="https://www.videnskanylen.dk/">
+        <img src="assets/publpics/videnskanylen.png" alt="Videnskanylen" title="Videnskanylen"/>
     </a>
   </td>
 </tr>
