@@ -37,7 +37,7 @@ keywords: learning games, social epistemology, online experiments, science writi
   </td>
   <td class="left">
     <a href="https://spil.digitaluddannelse.org/">
-        <img src="../assets/publpics/bad-influence-network.gif" alt="Bad Influence" title="Bad Influence"/>
+        <img src="../assets/publpics/bad-influence-network.gif" width="300" alt="Bad Influence" title="Bad Influence"/>
     </a>
   </td>
 </tr>
