@@ -35,9 +35,9 @@ keywords: learning games, social epistemology, online experiments, science writi
         <img src="assets/publpics/ERGO.jpg" alt="Engelhardt and Jensen (2007)" title="Engelhardt and Jensen (2007)"/>
     </a>
   </td>
-  <td class="right">
-    <a href="https://www.videnskanylen.dk/">
-        <img src="assets/publpics/videnskanylen.png" alt="Videnskanylen" title="Videnskanylen"/>
+  <td class="left">
+    <a href="https://spil.digitaluddannelse.org/">
+        <img src="../assets/publpics/bad-influence-network.gif" alt="Bad Influence" title="Bad Influence"/>
     </a>
   </td>
 </tr>

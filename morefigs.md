@@ -16,11 +16,11 @@ title: Robin Engelhardt
 
 <table class="wide">
 <tr>
-  <td class="left">
-    <a href="https://github.com/gavstrik/WoT">
-        <img src="assets/publpics/wamot.png" alt="Wisdom of Threads" title="Wisdom of Threads"/>
-    </a>
-  </td>
+<td class="left">
+  <a href="https://spil.digitaluddannelse.org/">
+      <img src="../assets/publpics/daytrader.jpg" alt="Daytrader" title="Daytrader"/>
+  </a>
+</td>
   <td class="right">
     <a href="https://www.videnskanylen.dk/">
         <img src="assets/publpics/videnskanylen.png" alt="Videnskanylen" title="Videnskanylen"/>
