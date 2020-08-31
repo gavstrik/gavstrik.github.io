@@ -26,7 +26,7 @@ Apart from my scientific work, I am/was a journalist and science writer at a num
 [Ingeniøren](https://ing.dk/sog/Robin%20Engelhardt). Apart from that, I've co-developed a number of games and learning games. Have a look at the games from the menu bar.
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CVRobinEngelhardt_2020.pdf)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/CVRobinEngelhardt_2020.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-7162-0990](https://orcid.org/0000-0002-7162-0990)<br/>
 [google scholar](https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl)<br/>
 [github](https://github.com/gavstrik)<br/>
