@@ -103,7 +103,7 @@ Lisser R. Ejersbo, **Robin Engelhardt**, Lisbeth Frølunde, Thorkild Hanghøj, R
 
 ### <a name="articles"></a>research articles
 
-#### in preparation
+#### submitted
 
 Bolander T., **Engelhardt R.**, Nicolet T. (2020): The Curse of Shared Knowledge: Recursive Belief Reasoning in a Coordination Game with Imperfect Information, arXiv.org.
 [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/2008.08849.pdf)
