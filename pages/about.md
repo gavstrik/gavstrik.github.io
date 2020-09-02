@@ -7,21 +7,22 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/pdfs/assets/CVRobinEngelhardt_2020.pdf">cv</a></li>
+          <li><a href="https://orcid.org/0000-0002-7162-0990">
+              <img src="icons32/ORCIDiD_icon32x32.png" alt="orcid" title="orcid"/></a></li>
           <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">
               <img src="icons16/scholar-icon.png" alt="scholar" title="scholar"/></a></li>
           <li><a href="https://github.com/gavstrik">
                   <img src="icons16/github-icon.png" alt="github" title="github"/></a></li>
           <li><a href="https://twitter.com/robinengelhardt">
-                  <img src="icons16/twitter-icon.png" alt="twitter" title="twitter"/></a></li>
+                  <img src="icons32/twitter-icon32.png" alt="twitter" title="twitter"/></a></li>
       </ul>
   </div>
 </div>
 
 I am currently working at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark. My multidisciplinary research and development projects can be broadly associated with the fields of computational social science and educational research. Our team and I are doing online experiments to investigate collective phenomena in social media, such as attitude change, decision-making and social illusions. We currently develop multiplayer online learning games for norm-based intervention studies in classrooms.
 
-I received a BS in [theoretical chemistry](https://www.ku.dk/) in 1994, from the
-University of Copenhagen, and a PhD in complex systems in 1998 from the
+I received a BS in [theoretical chemistry](https://www.ku.dk/) from the
+University of Copenhagen, and a PhD in complex systems from the
 [Niels Bohr Institute](https://www.nbi.ku.dk); my PhD advisors were
 [Axel Hunding](https://www.researchgate.net/scientific-contributions/2006150665_Axel_Hunding) and
 [Kim Sneppen](https://scholar.google.com/citations?hl=en&user=LIBL6nQAAAAJ).
@@ -68,7 +69,7 @@ Apart from my scientific work, I am/was a journalist and science writer at a num
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/robingit.jpg">
+          <a href="../assets/pics/robingit.jpg">
             <img src="../assets/pics/robingit.jpg"
                   title="Robin Engelhardt" alt="Robin Engelhardt"/></a>
         </div>
