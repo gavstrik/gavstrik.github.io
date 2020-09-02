@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Robin Engelhardt is working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark; research in social media, learning games, online experiments
+description: Robin Engelhardt is working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark; computational social science, learning games, online experiments
 ---
 
 <div class="navbar">
@@ -10,9 +10,9 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
           <li><a href="https://orcid.org/0000-0002-7162-0990">
               <img src="icons32/ORCIDiD_icon32x32.png" alt="orcid" title="orcid"/></a></li>
           <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">
-              <img src="icons16/scholar-icon.png" alt="scholar" title="scholar"/></a></li>
+              <img src="icons32/scholar icon icon.png" alt="scholar" title="scholar"/></a></li>
           <li><a href="https://github.com/gavstrik">
-                  <img src="icons16/github-icon.png" alt="github" title="github"/></a></li>
+                  <img src="icons32/Octocat32.png" alt="github" title="github"/></a></li>
           <li><a href="https://twitter.com/robinengelhardt">
                   <img src="icons32/twitter-icon32.png" alt="twitter" title="twitter"/></a></li>
       </ul>
