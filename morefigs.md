@@ -7,11 +7,12 @@ title: Robin Engelhardt
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CVRobinEngelhardt_2020.pdf">cv</a></li>
-          <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">scholar</a></li>
+          <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">
+              <img src="pages/icons16/schlar-icon.png" alt="scholar" title="scholar"/></a></li>
           <li><a href="https://github.com/gavstrik">
-                  <img src="pages/icons64/github-icon.png" alt="github" title="github"/></a></li>
+                  <img src="pages/icons16/github-icon.png" alt="github" title="github"/></a></li>
           <li><a href="https://twitter.com/robinengelhardt">
-                  <img src="pages/icons64/twitter-icon.png" alt="twitter" title="twitter"/></a></li>
+                  <img src="pages/icons32/twitter-icon32.png" alt="twitter" title="twitter"/></a></li>
       </ul>
   </div>
 </div>
