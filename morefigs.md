@@ -8,7 +8,8 @@ title: Robin Engelhardt
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CVRobinEngelhardt_2020.pdf">cv</a></li>
           <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">scholar</a></li>
-          <li><a href="https://github.com/gavstrik">github</a></li>
+          <li><a href="https://github.com/gavstrik">
+                  <img src="pages/icons16/github-icon.png" alt="github" title="github"/></a></li>
           <li><a href="https://twitter.com/robinengelhardt">
                   <img src="pages/icons16/twitter-icon.png" alt="twitter" title="twitter"/></a></li>
       </ul>
