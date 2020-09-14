@@ -48,8 +48,8 @@ keywords: learning games, social epistemology, online experiments, science writi
   </div>
 </div>
 
-<hr>
 <!--
+<hr>
 <footer>
   <p><small>
     Site design and code was cloned and adapted from
