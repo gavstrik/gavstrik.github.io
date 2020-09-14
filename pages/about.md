@@ -6,7 +6,7 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
 
 <div class="navbar">
   <div class="navbar-inner">
-      <ul class="nav"> 
+      <ul class="nav" color="white"> 
           <li><a href="https://orcid.org/0000-0002-7162-0990">
               <img src="icons32/ORCIDiD_icon32x32.png" alt="orcid" title="orcid"/></a></li>
           <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">
