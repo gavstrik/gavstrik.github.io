@@ -8,7 +8,7 @@ keywords: learning games, social epistemology, online experiments, science writi
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="">publication</a></li>
+          <li><a href="">projects and publications</a></li>
       </ul>
   </div>
 </div>
@@ -43,12 +43,13 @@ keywords: learning games, social epistemology, online experiments, science writi
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">more projects</a></li>
+          <li><a href="morefigs.html">more projects and publications</a></li>
       </ul>
   </div>
 </div>
 
 <hr>
+<!--
 <footer>
   <p><small>
     Site design and code was cloned and adapted from
@@ -56,3 +57,4 @@ keywords: learning games, social epistemology, online experiments, science writi
     <a href="https://kbroman.github.io/simple_site">simple github site</a>.
   </small></p>
 </footer>
+-->
