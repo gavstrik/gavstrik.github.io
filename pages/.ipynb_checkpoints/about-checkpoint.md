@@ -19,7 +19,7 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
   </div>
 </div>
 
-I currently work at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark. My research and development projects can be broadly connected to the fields of computational social science and educational research. Our team and I are doing online experiments to investigate collective phenomena in social media, such as attitude change, decision-making and social illusions. We currently develop multiplayer online learning games for norm-based intervention studies in classrooms.
+I currently work at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark. My research and development projects are connected to the fields of computational social science and educational research. Our team is doing online experiments to investigate collective phenomena in social media, such as attitude change, decision-making and social illusions. We currently develop multiplayer online learning games for norm-based intervention studies in classrooms.
 
 I received a BS in [theoretical chemistry](https://www.ku.dk/) from the
 University of Copenhagen, and a PhD in complex systems from the
@@ -38,7 +38,7 @@ at the
 Apart from my scientific work, I am/was a journalist and science writer at a number of Danish newspapers such as
 [Information](https://www.information.dk/search/site/Robin%20Engelhardt),
 [Weekendavisen](https://www.weekendavisen.dk/), and
-[Ingeniøren](https://ing.dk/sog/Robin%20Engelhardt). Apart from that, I've co-developed a number of games and learning games. Have a look at the games from the menu bar.
+[Ingeniøren](https://ing.dk/sog/Robin%20Engelhardt). Apart from that, I've co-developed a number of teaching materials and learning games. Have a look at the games from the menu bar.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/CVRobinEngelhardt_2020.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-7162-0990](https://orcid.org/0000-0002-7162-0990)<br/>
