@@ -6,7 +6,7 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
 
 <div class="navbar">
   <div class="navbar-inner">
-      <ul class="nav" color="white"> 
+      <ul class="nav"> 
           <li><a href="https://orcid.org/0000-0002-7162-0990">
               <img src="icons32/ORCIDiD_icon32x32.png" alt="orcid" title="orcid"/></a></li>
           <li><a href="https://scholar.google.com/citations?user=jQufe6wAAAAJ&hl">
@@ -19,7 +19,8 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
   </div>
 </div>
 
-I currently work at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark. My research and development projects are connected to the fields of computational social science and educational research. Our team is doing online experiments to investigate collective phenomena in social media, such as attitude change, decision-making and social illusions. We currently develop multiplayer online learning games for norm-based intervention studies in classrooms.
+
+I currently work at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark. My research and development projects are in the fields of computational social science and educational research. Our team is doing online experiments to investigate collective phenomena in social media, such as attitude change, decision-making and social illusions. We currently develop multiplayer online learning games for norm-based intervention studies in classrooms.
 
 I received a BS in [theoretical chemistry](https://www.ku.dk/) from the
 University of Copenhagen, and a PhD in complex systems from the
