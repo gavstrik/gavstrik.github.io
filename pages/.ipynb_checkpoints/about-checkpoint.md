@@ -19,7 +19,7 @@ description: Robin Engelhardt is working at the Center for Information and Bubbl
   </div>
 </div>
 
-I am currently working at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark. My multidisciplinary research and development projects can be broadly associated with the fields of computational social science and educational research. Our team and I are doing online experiments to investigate collective phenomena in social media, such as attitude change, decision-making and social illusions. We currently develop multiplayer online learning games for norm-based intervention studies in classrooms.
+I currently work at the [Center for Information and Bubble Studies](https://bubblestudies.ku.dk/) at the University of Copenhagen - Denmark. My research and development projects can be broadly connected to the fields of computational social science and educational research. Our team and I are doing online experiments to investigate collective phenomena in social media, such as attitude change, decision-making and social illusions. We currently develop multiplayer online learning games for norm-based intervention studies in classrooms.
 
 I received a BS in [theoretical chemistry](https://www.ku.dk/) from the
 University of Copenhagen, and a PhD in complex systems from the
