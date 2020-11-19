@@ -1,3 +1,10 @@
+---
+layout: frontpage
+title: Robin Engelhardt
+description: Robin Engelhardt is currently working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark.
+keywords: learning games, social epistemology, online experiments, science writing
+---
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B44TKHXGB7"></script>
 <script>
@@ -8,12 +15,7 @@
   gtag('config', 'G-B44TKHXGB7');
 </script>
 
----
-layout: frontpage
-title: Robin Engelhardt
-description: Robin Engelhardt is currently working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark.
-keywords: learning games, social epistemology, online experiments, science writing
----
+
 
 <div class="navbar">
   <div class="navbar-inner">
