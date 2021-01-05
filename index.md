@@ -28,8 +28,8 @@ keywords: learning games, social epistemology, online experiments, science writi
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://arxiv.org/abs/2008.05203">
-        <img src="assets/publpics/wamot.png" width="300" alt="Wisdom of Threads" title="The Wisdom and Persuadability of Threads"/>
+    <a href="https://robinengelhardt.me/etsyvni/notebook/pca/folketinget/politik/2020/11/29/pca.html">
+        <img src="..\etsyvni\images\ft151.png" width="300" alt="pca" title="Top og bund i dansk politik"/>
     </a>
   </td>
   <td class="right">

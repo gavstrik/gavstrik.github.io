@@ -36,6 +36,11 @@ title: Robin Engelhardt
     </a>
   </td>
 </tr>
+    <td class="left">
+    <a href="https://arxiv.org/abs/2008.05203">
+        <img src="assets/publpics/wamot.png" width="300" alt="Wisdom of Threads" title="The Wisdom and Persuadability of Threads"/>
+    </a>
+  </td>
 </table>
 
 
