@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-description: KRobin Engelhardt's teaching
+description: Robin Engelhardt's teaching
 ---
 
 <div class="navbar">
@@ -17,6 +17,29 @@ description: KRobin Engelhardt's teaching
 
 
 ### <a name="current"></a>Current courses
+
+## RCR: Responsible Conduct of Research
+
+Central readings
+
+Danish Code of Conduct for Research Integrity
+Avoiding plagiarism, self-plagiarism, and other questionable writing practices: A guide to ethical writing 
+RCR - a Danish textbook in Responsible Conduct of Research
+RCR at the University of Copenhagen
+
+Responsible conduct of research at UCPH (the Researcher Portal on KUnet)
+Code for Authorship at University of Copenhagen (KUnet)
+International guidelines
+SUND's research is conducted to high professional standards, within a culture that complies with Danish and international standards for responsible conduct of research.
+
+Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals (Vancouver Guidelines)
+National Committee on Research Misconduct
+
+The Danish Committees for Scientific Dishonesty (DCSD). Handles cases on research misconduct.
+The Committee's guidelines
+The Practice Committee at the University of Copenhagen
+
+The Practice Committee assesses issues of good scientific practice at the University of Copenhagen.
 
 ### <a name="shortcourses"></a>Short courses
 
