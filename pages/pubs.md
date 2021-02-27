@@ -21,15 +21,6 @@ description: Robin Engelhardt's publications
 
 ### <a name="books"></a>books
 
-<!--
-**Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
-[![Online complements](icons16/html-icon.png)](https://rqtl.org/book)
-[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
-[![Springer](icons16/springer-icon.png)](https://www.springer.com/978-0-387-92124-2)
-[![R/qtl](icons16/R-icon.png)](https://rqtl.org)
-[![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9)
--->
-
 John St. Waft med forord af **Dr. Engelhardt** (2012), Endnu et beskedent forslag - til at forbedre de asylsøgende flygtninges ulykkelige situation og gøre deres ti  lstedeværelse i Danmark til en fordel for dem selv og for det danske samfund, 24 pages, Autre, ISBN 978-87-994150-3-8.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Endnu-et-beskedent-forslag.pdf)
 

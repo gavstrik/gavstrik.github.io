@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Robin Engelhardt is working at the Center for Information and Bubble Studies at the University of Copenhagen - Denmark; computational social science, learning games, online experiments
+description: Robin Engelhardt is working at the Department of Food and Resource Economics at the University of Copenhagen - Denmark; computational social science, responsible conduct of research, online experiments
 ---
 
 <div class="navbar">

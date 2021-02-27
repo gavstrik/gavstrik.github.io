@@ -16,36 +16,26 @@ description: Robin Engelhardt's teaching
 </div>
 
 
-### <a name="current"></a>Current courses
+## <a name="current"></a>Current courses
 
-## RCR: Responsible Conduct of Research
+### [Responsible Conduct of Research 1: An Introduction](https://phdcourses.dk/Course/79108)
 
-Central readings
+- [schedule](https://phdcourses.ku.dk/detailkursus.aspx?id=107913&sitepath=SUND)
+- [syllabus](http://ifro.ku.dk/rcr.pdf/)
+- [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
+- [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
-Danish Code of Conduct for Research Integrity
-Avoiding plagiarism, self-plagiarism, and other questionable writing practices: A guide to ethical writing 
-RCR - a Danish textbook in Responsible Conduct of Research
-RCR at the University of Copenhagen
+## <a name="misc"></a>Miscellaneous lectures
 
-Responsible conduct of research at UCPH (the Researcher Portal on KUnet)
-Code for Authorship at University of Copenhagen (KUnet)
-International guidelines
-SUND's research is conducted to high professional standards, within a culture that complies with Danish and international standards for responsible conduct of research.
+### [(Mis)information og Demokrati](https://kurser.ku.dk/course/hfib10681u/2020-2021)
 
-Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals (Vancouver Guidelines)
-National Committee on Research Misconduct
+Guest lecture: Bias, framing og den aktive konstruktion af uvidenhed: Basale teknikker til at skabe og fastholde uopmærksomhed og uvidenhed.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/misdemo_20201005_robin.pdf)
 
-The Danish Committees for Scientific Dishonesty (DCSD). Handles cases on research misconduct.
-The Committee's guidelines
-The Practice Committee at the University of Copenhagen
 
-The Practice Committee assesses issues of good scientific practice at the University of Copenhagen.
+## <a name="old"></a>Former courses
 
-### <a name="shortcourses"></a>Short courses
 
-### <a name="misc"></a>Miscellaneous lectures
-
-### <a name="old"></a>Former courses
 
 <!--
 #### [Advanced data analysis (BMI 826, Spring 2020)](https://kbroman.org/AdvData)
