@@ -30,25 +30,39 @@ description: Robin Engelhardt's teaching
 ### [Science Communication in Theory and Practice (2016-)](https://www.ind.ku.dk/english/course_overview/summer_course_science_communication/)
 
 - [schedule](https://kurser.ku.dk/course/nndk16002u/2020-2021)
+My contribution consists in the following video lectures:
 - Basic News Writing, part 1 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=QPyGhpLNjcw)
-- [Basic News Writing, part 2](https://www.youtube.com/watch?v=4HfgggXknQ4)
-- [Basic Storytelling, part 1](https://www.youtube.com/watch?v=c-NsZcKKQxY)
-- [Basic Storytelling, part 2](https://www.youtube.com/watch?v=vrLjt3or5Uo)
-- [Academic Writing and Argumentation, part 1](https://www.youtube.com/watch?v=c-NsZcKKQxY)
-- [Academic Writing and Argumentation, part 2](https://www.youtube.com/watch?v=VYIn7AyOnuA)
-- [Academic Writing and Argumentation, part 1](https://www.youtube.com/watch?v=DgrM_xNjMU4)
-
+- Basic News Writing, part 2 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=4HfgggXknQ4)
+- Basic Storytelling, part 1 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=c-NsZcKKQxY)
+- Basic Storytelling, part 2 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=vrLjt3or5Uo)
+- Academic Writing and Argumentation, part 1 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=c-NsZcKKQxY)
+- Academic Writing and Argumentation, part 2 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=VYIn7AyOnuA)
+- Academic Writing and Argumentation, part 3 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=DgrM_xNjMU4)
 
 ## <a name="misc"></a>Miscellaneous lectures
 
 ### [(Mis)information og Demokrati (2020-)](https://kurser.ku.dk/course/hfib10681u/2020-2021)
 
-Guest lecture: Bias, framing og den aktive konstruktion af uvidenhed: Basale teknikker til at skabe og fastholde uopmærksomhed og uvidenhed.
-[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/misdemo_20201005_robin.pdf)
+Bias, framing og den aktive konstruktion af uvidenhed: Basale teknikker til at skabe og fastholde uopmærksomhed og uvidenhed. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/misdemo_20201005_robin.pdf)
+
+### Günther Anders’ filosofi (2013), AU
+
+### Philosophy and Science (1998-2000), Royal School of Library and Information Science
 
 
 ## <a name="old"></a>Former courses
 
+### [Interdisciplinary Project Course (2014-2015)](https://studies.ku.dk/masters/climate-change/programme-structure/)
+
+- [schedule](https://kurser.ku.dk/course/nigk14055u/)
+- [syllabus](https://www.science.ku.dk/studerende/studieordninger/kandidat/climatechange/Sto_Climate_Change_2012.pdf)
+
+
+### Videnskabsjournalistik (2014-2015)
+
+### Videnskabsformidling med nye medier (2010)
+
+### Web-/IT-based Communication (2008, 2010)
 
 
 <!--
