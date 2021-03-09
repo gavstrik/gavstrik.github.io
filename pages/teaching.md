@@ -43,7 +43,7 @@ My contribution consists of the following permanent video lectures:
 
 ### [(Mis)information og Demokrati (2020-)](https://kurser.ku.dk/course/hfib10681u/2020-2021)
 
-Bias, framing og den aktive konstruktion af uvidenhed: Basale teknikker til at skabe og fastholde uopmærksomhed og uvidenhed. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/misdemo_20201005_robin.pdf)
+- (2020) Bias, framing og den aktive konstruktion af uvidenhed: Basale teknikker til at skabe og fastholde uopmærksomhed og uvidenhed. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/misdemo_20201005_robin.pdf)
 
 ##### Günther Anders’ filosofi (2013), AU
 
