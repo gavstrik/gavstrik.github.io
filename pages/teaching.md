@@ -29,8 +29,8 @@ description: Robin Engelhardt's teaching
 
 ### [Science Communication in Theory and Practice (2016-)](https://www.ind.ku.dk/english/course_overview/summer_course_science_communication/)
 
-- [schedule](https://kurser.ku.dk/course/nndk16002u/2020-2021)
-My contribution consists in the following video lectures:
+- [schedule](https://kurser.ku.dk/course/nndk16002u/2020-2021)  
+My contribution consists of the following permanent video lectures:
 - Basic News Writing, part 1 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=QPyGhpLNjcw)
 - Basic News Writing, part 2 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=4HfgggXknQ4)
 - Basic Storytelling, part 1 [![Online complements](icons16/youtube-icon.png)](https://www.youtube.com/watch?v=c-NsZcKKQxY)
