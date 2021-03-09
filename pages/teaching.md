@@ -8,7 +8,6 @@ description: Robin Engelhardt's teaching
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#current">current courses</a></li>
-            <li><a href="#shortcourses">short courses</a></li>
             <li><a href="#misc">misc lectures</a></li>
             <li><a href="#old">former courses</a></li>
         </ul>
@@ -18,16 +17,28 @@ description: Robin Engelhardt's teaching
 
 ## <a name="current"></a>Current courses
 
-### [Responsible Conduct of Research 1: An Introduction](https://phdcourses.dk/Course/79108)
+### [Responsible Conduct of Research 1: An Introduction](https://healthsciences.ku.dk/research/responsible-conduct-of-research/) 2021-
 
-- [schedule](https://phdcourses.ku.dk/detailkursus.aspx?id=107913&sitepath=SUND)
+- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
 - [syllabus](http://ifro.ku.dk/rcr.pdf/)
 - [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
+
+### [Science Communication in Theory and Practice](https://www.ind.ku.dk/english/course_overview/summer_course_science_communication/) 2016-
+
+- [schedule](https://kurser.ku.dk/course/nndk16002u/2020-2021)
+- [Basic News Writing, part 1](https://www.youtube.com/watch?v=QPyGhpLNjcw)
+- [Basic News Writing, part 2](https://www.youtube.com/watch?v=4HfgggXknQ4)
+- [Basic Storytelling, part 1](https://www.youtube.com/watch?v=c-NsZcKKQxY)
+- [Basic Storytelling, part 2](https://www.youtube.com/watch?v=vrLjt3or5Uo)
+- [Academic Writing and Argumentation, part 1](https://www.youtube.com/watch?v=c-NsZcKKQxY)
+- [Academic Writing and Argumentation, part 2](https://www.youtube.com/watch?v=VYIn7AyOnuA)
+- [Academic Writing and Argumentation, part 1](https://www.youtube.com/watch?v=DgrM_xNjMU4)
+
 ## <a name="misc"></a>Miscellaneous lectures
 
-### [(Mis)information og Demokrati](https://kurser.ku.dk/course/hfib10681u/2020-2021)
+### [(Mis)information og Demokrati](https://kurser.ku.dk/course/hfib10681u/2020-2021) 2020-
 
 Guest lecture: Bias, framing og den aktive konstruktion af uvidenhed: Basale teknikker til at skabe og fastholde uopmærksomhed og uvidenhed.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/misdemo_20201005_robin.pdf)
