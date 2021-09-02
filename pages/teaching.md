@@ -27,20 +27,20 @@ description: Robin Engelhardt's teaching
 
 #### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-), UCPH](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-2-getting-ready-for-submission-of-manuscripts-and-thesis/)
 
-- [course description](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/RCR_2_SCIENCE_Course_Description.pdf) 
+- course description[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/RCR_2_SCIENCE_Course_Description.pdf) 
 - schedules: [Faculty of Science](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SCIENCE), [Faculty of Health and Medical Sciences](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
 - [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
-- [assignment](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Assignment RCR2 SCIENCE.pdf) 
-- [checklist](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Checklist_RCR2.pdf) 
+- assignment[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Assignment RCR2 SCIENCE.pdf) 
+- checklist[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Checklist_RCR2.pdf) 
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
 
 #### [Responsible Conduct of Research 3: A case-based workshop for postdocs and assistant professors (2021-), UCPH](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
-- [course description](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/RCR3_Course_Description.pdf) 
+- course description[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/RCR3_Course_Description.pdf) 
 - [schedule](https://health.easysignup.com/)
 - [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
-- [cases](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/cases.pdf) 
+- cases[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/cases.pdf) 
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
 
