@@ -18,30 +18,20 @@ description: Robin Engelhardt's teaching
 
 ## <a name="current"></a>Current courses
 
-### Faculty of Science, UCPH
+#### [Responsible Conduct of Research 1: An Introduction (2021-), UCPH](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
 
-#### [Responsible Conduct of Research 1: An Introduction (2021-)](https://phdcourses.ku.dk/DetailKursus.aspx?id=108436&sitepath=NAT)
-
-- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SCIENCE)
+- schedule: [Faculty of Science](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SCIENCE), [Faculty of Health and Medical Sciences](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
 - [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
 - [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/Written_assignment_in_the_PhD_course_Responsible_Conduct_of_Research_1_An_Introduction.pdf)
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
-#### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-)](https://phdcourses.ku.dk/DetailKursus.aspx?id=108450&sitepath=NAT)
+#### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-)](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-2-getting-ready-for-submission-of-manuscripts-and-thesis/)
 
-- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
+- schedule: [Faculty of Science](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SCIENCE), [Faculty of Health and Medical Sciences](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
 - [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
 - [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
-### Faculty of Health and Medical Sciences, UCPH
-
-#### [Responsible Conduct of Research 1: An Introduction (2021-)](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
-
-- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
-- [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
-- [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/Written_assignment_in_the_PhD_course_Responsible_Conduct_of_Research_1_An_Introduction.pdf)
-- [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
 #### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-)](#### [Responsible Conduct of Research 1: An Introduction (2021-)](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
 
