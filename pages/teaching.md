@@ -25,6 +25,15 @@ description: Robin Engelhardt's teaching
 - [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
+### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-)](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
+
+- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
+- [syllabus](http://ifro.ku.dk/rcr.pdf/)
+- [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
+- [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
+
+
+
 ## <a name="misc"></a>Summer school
 
 ### [Science Communication in Theory and Practice (2016-)](https://www.ind.ku.dk/english/course_overview/summer_course_science_communication/)
