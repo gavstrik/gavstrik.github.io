@@ -25,32 +25,22 @@ description: Robin Engelhardt's teaching
 - [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/Written_assignment_in_the_PhD_course_Responsible_Conduct_of_Research_1_An_Introduction.pdf), guidelines [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Guidelines RCR Assignment IND 051120.pdf)
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
-#### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-)](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-2-getting-ready-for-submission-of-manuscripts-and-thesis/)
+#### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-), UCPH](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-2-getting-ready-for-submission-of-manuscripts-and-thesis/)
 
+- [course description](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/RCR_2_SCIENCE_Course_Description.pdf) 
 - schedules: [Faculty of Science](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SCIENCE), [Faculty of Health and Medical Sciences](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
 - [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
-- [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
+- [assignment](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Assignment RCR2 SCIENCE.pdf) 
+- [checklist](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/Checklist_RCR2.pdf) 
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
 
-#### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-)](#### [Responsible Conduct of Research 1: An Introduction (2021-)](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
+#### [Responsible Conduct of Research 3: A case-based workshop for postdocs and assistant professors (2021-), UCPH](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
-- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
+- [course description](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/RCR3_Course_Description.pdf) 
+- [schedule](https://health.easysignup.com/)
 - [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
-- [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
-- [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
-
-#### [Responsible Conduct of Research 2: Getting ready for Submission of Manuscripts and Thesis (2021-)](https://phdcourses.ku.dk/DetailKursus.aspx?id=108486&sitepath=SUND)
-
-- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
-- [syllabus](http://ifro.ku.dk/rcr.pdf/)
-- [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
-- [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
-)
-
-- [schedule](https://phdcourses.ku.dk/Kursusliste.aspx?TermId=336&KatId=53&OCatID=4300110&sitepath=SUND)
-- [syllabus](http://ifro.ku.dk/rcr.pdf/)
-- [assignment](https://healthsciences.ku.dk/phd/phd-courses/obligatoryintroductioncourse/responsible-conduct-of-research-1-an-introduction/)
+- [cases](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/cases.pdf) 
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
 
@@ -70,7 +60,7 @@ description: Robin Engelhardt's teaching
 
 ## <a name="misc"></a>Miscellaneous lectures
 
-### [(Mis)information og Demokrati (2020-)](https://kurser.ku.dk/course/hfib10681u/2020-2021)
+#### [(Mis)information og Demokrati (2020-)](https://kurser.ku.dk/course/hfib10681u/2020-2021)
 
 - (2020) Bias, framing og den aktive konstruktion af uvidenhed: Basale teknikker til at skabe og fastholde uopmærksomhed og uvidenhed. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/misdemo_20201005_robin.pdf)
 
