@@ -40,7 +40,6 @@ description: Robin Engelhardt's teaching
 - course description[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/RCR3_Course_Description.pdf) 
 - [schedule](https://health.easysignup.com/)
 - [syllabus](https://static-curis.ku.dk/portal/files/247440631/RCR_4_ed_2020_update.pdf)
-- cases[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/cases.pdf) 
 - [resources](https://healthsciences.ku.dk/research/responsible-conduct-of-research/)
 
 
