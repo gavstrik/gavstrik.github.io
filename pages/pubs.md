@@ -14,7 +14,6 @@ description: Robin Engelhardt's publications
             <li><a href="#thesis">theses</a></li>
             <li><a href="#journalism">science writing</a></li>
             <li><a href="#games">games</a></li>
-            <li><a href="#misc">misc</a></li>
         </ul>
     </div>
 </div>
@@ -144,6 +143,15 @@ Hunding A., **Engelhardt R.** (1995). Early Biological Morphogenesis and Nonline
 
 
 ### <a name="journalism"></a>journalism and science writing
+
+##### 2022
+**Engelhardt R.** (2022) KU viser dobbelte standarder for forskningstyveri, Universitetsavisen, 28. november, 2022 — 14:26
+[![Online complements](icons16/html-icon.png)](https://uniavisen.dk/ku-viser-dobbelte-standarder-for-forskningstyveri/)
+
+##### 2021
+
+**Engelhardt R.** (2020) Top og bund i dansk politik
+[![Online complements](icons16/html-icon.png)](https://robinengelhardt.me/etsyvni/notebook/pca/folketinget/politik/2020/11/29/pca.html)
 
 ##### 2013
 Bakteriespisende virus kan lære os nyt trick mod infektioner, 3. maj 2013, Ingeniøren, Sektion 1, Side 14, Robin Engelhardt, 1430 ord, Id: e3c67db3
@@ -1394,11 +1402,3 @@ Boll-Johansen B, **Engelhardt R.**, Storm S. (2019) Videnskanylen
 
 **Engelhardt R.**, Vilhelmsen L., Skovgaard P. (2004): Hazardcards
 [![Online complements](icons16/html-icon.png)](https://boardgamegeek.com/boardgame/19882/hazard-cards)
-
-### <a name="misc"></a>misc
-
-**Engelhardt R.** (2022) KU viser dobbelte standarder for forskningstyveri, Universitetsavisen, 28. november, 2022 — 14:26
-[![Online complements](icons16/html-icon.png)](https://uniavisen.dk/ku-viser-dobbelte-standarder-for-forskningstyveri/)
-
-**Engelhardt R.** (2020) Top og bund i dansk politik
-[![Online complements](icons16/html-icon.png)](https://robinengelhardt.me/etsyvni/notebook/pca/folketinget/politik/2020/11/29/pca.html)
