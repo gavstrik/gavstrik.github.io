@@ -55,15 +55,14 @@ Apart from my scientific work, I am/was a journalist and science writer at a num
     <div class="row-fluid">
         <div class="span5">
             <a href="https://komm.ku.dk/ansatte/?pure=en/persons/9895">Robin Engelhardt</a><br/>
-            <a href="https://bubblestudies.ku.dk/">Center for Information and Bubble Studies</a><br/>
-            <a href="https://comm.ku.dk/">Department of Communication</a><br/>
-            Karen Blixens Plads 8<br/>
-            2300 Copenhagen S<br/>
+            <a href="https://ifro.ku.dk/">Department of Food and Resource Economics</a><br/>
+            Rolighedsvej 23 8<br/>
+            1958 Frederiksberg C<br/>
             Denmark<br/><br/>
 
             <div id="hide_email">
-            Email: <code>rob</code><b>I</b><code>in</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>hum</code><b>leave
+            Email: <code>re</code><b>I</b><code></code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>ifro</code><b>leave
             </b><code>.</code><b>me</b><code>ku</code><b>alone</b><code>.</code><b>!</b><code>dk</code><br/>
             Phone: +45-26-300-403
             </div>
