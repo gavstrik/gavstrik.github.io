@@ -56,7 +56,7 @@ Apart from my scientific work, I am/was a journalist and science writer at a num
         <div class="span5">
             <a href="https://komm.ku.dk/ansatte/?pure=en/persons/9895">Robin Engelhardt</a><br/>
             <a href="https://ifro.ku.dk/">Department of Food and Resource Economics</a><br/>
-            Rolighedsvej 23 8<br/>
+            Rolighedsvej 23<br/>
             1958 Frederiksberg C<br/>
             Denmark<br/><br/>
 
